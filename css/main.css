@@ -166,6 +166,10 @@ div.wpcf7 .wpcf7-spinner {
 	.uk-hidden\@m {
 		display: none !important;
 	}
+
+	.uk-header .uk-navbar-right > .uk-navbar-item {
+		white-space: nowrap;
+	}
 }
 
 .uk-heading {
